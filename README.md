@@ -1,5 +1,5 @@
 For Project 1, I had a lot of practice using command line commands to create a specific folder structure. The following are submission photos from the project:
-<img src="p1/p1folders.png" alt="Image"> 
+<img src="p1/p1-folders.png" alt="Image"> 
 <img src="p1/p1-tree.png" alt="Image">
 
 I learned how to break out of a command line process that appears to be non-functional or stuck and use the appropriate break keyboard sequence. 
